@@ -1,4 +1,4 @@
-<xsd:schema xmlns="http://www.lemilachweb.org/lemilachcore4.htm" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.lemilachweb.org/lemilachcore4.htm" version="4.0.42" xml:lang="en" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xsd:schema xmlns="https://github.com/zmaiorana/lemilach" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="https://github.com/zmaiorana/lemilach" version="4.0.42" xml:lang="en" elementFormDefault="qualified" attributeFormDefault="unqualified">
 <xsd:annotation>
 <xsd:documentation>
 This schema is an implementation of the lemilach Core Categories, Version 4.0, plus custom categories. It defines a wrapper element (lemilach), which can hold any number of record-level elements (collection, work, image, external work). These elements can be nested to indicate collection-work-image hierarchies.
